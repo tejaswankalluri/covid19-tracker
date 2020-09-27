@@ -12,7 +12,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install corona tracker.
 and [node](https://nodejs.org/) should install in your computer
 
 ```bash
-npm init
+npm install
 ```
 
 ## Usage
