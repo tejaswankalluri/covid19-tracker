@@ -3,6 +3,8 @@
 Corona tracker is a website to show **Corona cases in realtime**. across the Globe.
 
 And it support country wise cases
+## Demo link
+[trackcovid2020.netlify.app](trackcovid2020.netlify.app/)
 ## Images
 ![homepage image](https://raw.githubusercontent.com/tejaswankalluri82522/covid19-tracker/master/img/readme-img.png)
 ## Installation
